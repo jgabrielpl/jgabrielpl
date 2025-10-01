@@ -1,6 +1,6 @@
 # 👋 Olá, sou o José
 
-Sou José Gabriel, me formando em engenheiro de software, com forte interesse de atuar na área de dados e pretendo me especializar em Engenharia de Dados. Sempre buscando transformar dados complexos em soluções claras e eficientes, criando pipelines robustos e projetos que fazem sentido no mundo real.<br>Tenho conhecimento e experiência em: ETL, Python (NumPy, Pandas, Matplotlib, Scikit-learn, Logging...), SQL (MySQL, SQL Server e PostgreSQL), Git/GitHub, Modelagem Relacional/Dimensional e Metodologias ágeis como Scrum e Kanban.<br>Estou em constante evolução, sempre aberto a colaborações, desafios e oportunidades, especialmente em projetos de engenharia de dados.
+Sou José Gabriel, me formando em engenheiro de software, com forte interesse de atuar na área de dados e pretendo me especializar em Engenharia de Dados. Sempre buscando transformar dados complexos em soluções claras e eficientes, criando pipelines robustos e projetos que fazem sentido no mundo real.<br>Tenho conhecimento e experiência em: ETL, Python (NumPy, Pandas, Matplotlib, Scikit-learn, ...), SQL (MySQL, SQL Server e PostgreSQL), Git/GitHub, Modelagem Relacional/Dimensional e Metodologias ágeis como Scrum e Kanban.<br>Estou em constante evolução, sempre aberto a colaborações, desafios e oportunidades, especialmente em projetos de engenharia de dados.
 
 ## 🚀 Skills:
 
